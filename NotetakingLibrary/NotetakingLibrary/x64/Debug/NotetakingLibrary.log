@@ -1,0 +1,17 @@
+﻿  NotetakingLibrary.cpp
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.cpp(17,6): warning C4273: 'notes_init': inconsistent dll linkage
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.h(13,33): message : see previous definition of 'notes_init'
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.cpp(26,6): warning C4273: 'load_note': inconsistent dll linkage
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.h(26,33): message : see previous definition of 'load_note'
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.cpp(53,6): warning C4273: 'add_note': inconsistent dll linkage
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.h(16,33): message : see previous definition of 'add_note'
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.cpp(89,6): warning C4273: 'delete_note': inconsistent dll linkage
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.h(20,33): message : see previous definition of 'delete_note'
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.cpp(122,6): warning C4273: 'edit_note': inconsistent dll linkage
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.h(23,33): message : see previous definition of 'edit_note'
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.cpp(189,6): warning C4273: 'view_directory': inconsistent dll linkage
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.h(29,33): message : see previous definition of 'view_directory'
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.cpp(205,6): warning C4273: 'displayLinesWithNumbers': inconsistent dll linkage
+C:\Users\Justine\source\repos\NotetakingLibrary\NotetakingLibrary\NotetakingLibrary.h(32,33): message : see previous definition of 'displayLinesWithNumbers'
+     Creating library C:\Users\Justine\source\repos\NotetakingLibrary\x64\Debug\NotetakingLibrary.lib and object C:\Users\Justine\source\repos\NotetakingLibrary\x64\Debug\NotetakingLibrary.exp
+  NotetakingLibrary.vcxproj -> C:\Users\Justine\source\repos\NotetakingLibrary\x64\Debug\NotetakingLibrary.dll
